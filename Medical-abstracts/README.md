@@ -1,4 +1,4 @@
-# Medical abstracts | NLP project
+# Biomedical abstracts
 This projects demonstrates how you can extract biomedical article information for a specific search term and further use it for analysis.
 
 NCBI has an API, documentation for Entrez Utilities (E-Utils) - https://www.ncbi.nlm.nih.gov/books/NBK25501/
