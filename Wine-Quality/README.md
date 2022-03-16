@@ -18,7 +18,9 @@ Features:
 Target variable - quality (scale from 1 to 10).
 
 [Dataset](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+
 [Relevant publication](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377)
+
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
 In Decision Support Systems, Elsevier, 47(4):547-553, 2009
 
