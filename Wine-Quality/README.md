@@ -1,5 +1,5 @@
 # Wine quality analysis
-This projects is about portuquese Vinho Verde wine.
+This project is about portuguese Vinho Verde wine.
 Due to privacy and logistic issues, only physicochemical and sensory ('quality') variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 Features:
