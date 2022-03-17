@@ -1,7 +1,12 @@
 # Biomedical abstracts
-This projects demonstrates how you can extract biomedical article information for a specific search term and further use it for analysis.
+This projects demonstrates how you can extract biomedical article information (abstracts) for a specific search term and further use it for analysis.
 
-NCBI has an API, documentation for Entrez Utilities (E-Utils) - https://www.ncbi.nlm.nih.gov/books/NBK25501/
+The goal is to **automate literature analysis** when doing research work. My topic of choice for this analysis is "neuroplasticity". It's quite a broad topic, so i'm interested what other topics might be related to neuroplasticity research.
 
-To use it, you need to create an account at https://www.ncbi.nlm.nih.gov/
+This analysis may be useful if i'm interested in most common topics. It could give a more definitive answer to questions about what type of research is currently in vogue in my area of interest.
+
+## Data collection
+NCBI has an API, [documentation](https://www.ncbi.nlm.nih.gov/books/NBK25501/) for Entrez Utilities (E-Utils). To use it, you need to create an account at https://www.ncbi.nlm.nih.gov/
 Fill in your NCBI registered email, your API key. Follow API guidelines.
+
+
