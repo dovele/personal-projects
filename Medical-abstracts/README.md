@@ -1,5 +1,5 @@
 # Biomedical abstracts
-This projects demonstrates how you can extract biomedical article information (abstracts) for a specific search term and further use it for analysis.
+This projects demonstrates how you can extract biomedical article information (abstracts) for a specific search term using E-Utils API and further use it for analysis.
 
 The goal is to **automate literature analysis** when doing research work. My topic of choice for this analysis is "neuroplasticity". It's quite a broad topic, so i'm interested what other topics might be related to neuroplasticity research.
 
